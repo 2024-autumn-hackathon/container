@@ -1,0 +1,15 @@
+.gitignore
+.dockerignore
+Dockerfile
+__test__
+.next
+.swc
+/*/app
+node_modules
+public
+# src
+.md
+*.js*
+*.mjs
+*.ts
+!package*.json
